@@ -1,5 +1,7 @@
 # Cadence — autonomous AI sales voice agent
 
+Live Demo: https://cadence.mrigyanshii.workers.dev/
+
 A working prototype of an inbound sales voice agent: it answers, qualifies against
 BANT, answers product questions from a versioned knowledge base **with citations**,
 handles objections, books a meeting, writes the CRM record and produces a post-call
